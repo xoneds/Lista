@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,CANAL 10
-
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w617697541_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjMgOTowNzowMyBQTSZoYXNoX3ZhbHVlPStwRkdDNUNCV293aTdYRUlaV3oxaWc9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9
-
-
-
 #EXTINF:-1 ,CANAL 11
 
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
